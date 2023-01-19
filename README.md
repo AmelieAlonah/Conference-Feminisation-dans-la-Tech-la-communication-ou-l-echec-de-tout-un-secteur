@@ -17,6 +17,12 @@ L'acceptation de post nauséabond, sexistes, misogynes, qui ne font valider des 
 ### Statistiques actuelles
 
 [Observatoire sur la féminisation des métiers du numérique](https://www.epitech.eu/wp-content/uploads/Epitech-observatoire-feminisation-metiers-numerique.pdf)
+[La moitié des femmes dans l'IT quittent leur emploi avant 35 ans](https://www.developpez.com/actu/309332/La-moitie-des-femmes-dans-l-IT-quittent-leur-emploi-avant-35-ans-selon-une-enquete-dont-la-majorite-des-repondantes-designent-la-culture-d-entreprise-non-inclusive-comme-la-cause/)
+[Source initiale](https://www.developpez.com/actu/309332/La-moitie-des-femmes-dans-l-IT-quittent-leur-emploi-avant-35-ans-selon-une-enquete-dont-la-majorite-des-repondantes-designent-la-culture-d-entreprise-non-inclusive-comme-la-cause/)
+[En 20 ans le nombre de femmes dans l'informatique a réduit de moitié](https://www.lemonde.fr/campus/article/2017/12/11/femmes-et-informatique-vingt-ans-de-desamour_5227726_4401467.html)
+[48 % des femmes dans la tech ont été harcélés sexuellement](https://www.developpez.com/actu/309239/Un-rapport-sur-la-situation-des-femmes-dans-le-secteur-des-technologies-decrit-le-harcelement-et-la-discrimination-dans-la-Silicon-Valley-pres-de-50-pourcent-des-femmes-dans-ce-secteur-ont-deja-ete-harcelees/)
+[Quelques chiffres actuels](https://www.grandeecolenumerique.fr/ressources/les-femmes-et-le-numerique/chiffres-cles-sur-les-femmes-et-la-tech)
+
 
 
 ### L'effet de la communication sur les interprétations de genre
@@ -26,6 +32,8 @@ L'acceptation de post nauséabond, sexistes, misogynes, qui ne font valider des 
 [Le cerveau, le sexe et l’idéologie dans les neurosciences](https://journals.openedition.org/osp/3389#tocto1n5)
 [Le genre à l’épreuve des neurosciences Gender Tested by Neuroscience](https://www.erudit.org/fr/revues/rf/2013-v26-n2-rf01178/1022778ar/)
 [Le langage brouille nos représentations du genre](https://www.gendercampus.ch/fr/blog/post/le-langage-brouille-nos-representations-du-genre)
+[Langage en tous genres](https://www.unine.ch/epicene/home/pourquoi/argument-scientifique.html)
+[Grammatical Gender in German Influences How Role-Nouns Are Interpreted: Evidence from ERPs](https://www.tandfonline.com/doi/full/10.1080/0163853X.2018.1541382)
 
 ### L'effet de la communication sur les moeurs 
 [Le slogan publicitaire, dynamique linguistique et vitalité sociale : la construction d’une esthétique sociale à travers la communication publicitaire](https://theses.hal.science/tel-01089816/document)
