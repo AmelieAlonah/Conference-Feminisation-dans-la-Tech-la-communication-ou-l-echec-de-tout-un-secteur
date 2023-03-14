@@ -7,10 +7,10 @@ Le nombre de femmes dans la tech baisse. Le nombre de femmes qui s'orientent dan
 
 L'acceptation de post nauséabond, sexistes, misogynes, qui ne font valider des thèses dépassées par de réelles études récentes et officielles, empêche l'évolution de tout un secteur. Nous sommes toutes et tous responsables, et il est tant de prendre les mesures nécessaires.
 
-- Étape 1 : Avoir des sources récentes, fiables.
-- Étape 2 : Reconnaitre le sexisme et la misogynie.
-- Étape 3 : Communiquer correctement.
-- Étape 4 : Réagir et prendre position.
+- Étape 1 : **Préparation** - Avoir des sources récentes, fiables.
+- Étape 2 : **Reconnaissance** - Reconnaitre le sexisme et la misogynie.
+- Étape 3 : **Assurance** - Communiquer correctement.
+- Étape 4 : **Action** - Réagir et prendre position.
 
 ## Étape 1 : Avoir des sources récentes, fiables -> préparation
 
