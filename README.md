@@ -18,7 +18,7 @@ L'acceptation de post nauséabond, sexistes, misogynes, qui ne font valider des 
 
 - [Observatoire sur la féminisation des métiers du numérique](https://www.epitech.eu/wp-content/uploads/Epitech-observatoire-feminisation-metiers-numerique.pdf)
 - [La moitié des femmes dans l'IT quittent leur emploi avant 35 ans](https://www.developpez.com/actu/309332/La-moitie-des-femmes-dans-l-IT-quittent-leur-emploi-avant-35-ans-selon-une-enquete-dont-la-majorite-des-repondantes-designent-la-culture-d-entreprise-non-inclusive-comme-la-cause/)
-- [Source initiale](https://www.developpez.com/actu/309332/La-moitie-des-femmes-dans-l-IT-quittent-leur-emploi-avant-35-ans-selon-une-enquete-dont-la-majorite-des-repondantes-designent-la-culture-d-entreprise-non-inclusive-comme-la-cause/)
+- [Source initiale](https://www.accenture.com/_acnmedia/PDF-134/Accenture-A4-GWC-Report-Final1.pdf)
 - [En 20 ans le nombre de femmes dans l'informatique a réduit de moitié](https://www.lemonde.fr/campus/article/2017/12/11/femmes-et-informatique-vingt-ans-de-desamour_5227726_4401467.html)
 - [48 % des femmes dans la tech ont été harcélés sexuellement](https://www.developpez.com/actu/309239/Un-rapport-sur-la-situation-des-femmes-dans-le-secteur-des-technologies-decrit-le-harcelement-et-la-discrimination-dans-la-Silicon-Valley-pres-de-50-pourcent-des-femmes-dans-ce-secteur-ont-deja-ete-harcelees/)
 - [Quelques chiffres actuels](https://www.grandeecolenumerique.fr/ressources/les-femmes-et-le-numerique/chiffres-cles-sur-les-femmes-et-la-tech)
